@@ -21,12 +21,15 @@ A Spam Classifier which receives a user input and classifies it either as spam o
 The landing page on loading the webapp is as follows
 ![image](https://user-images.githubusercontent.com/63156822/137364263-d28178e4-eeae-41b4-8596-e2bcf0d9cc9a.png)
 
-the user can enter the text content as shown below
+The user can enter the text content as shown below
+
 ![image](https://user-images.githubusercontent.com/63156822/137364297-605efe03-6706-4381-b4ba-c69d04256c02.png)
+
 
 
 ### Output Screenshots
 The output results fior varous mail inputs
+
 ![image](https://user-images.githubusercontent.com/63156822/137364341-628a038d-7c6b-43ad-90ab-c738f691840d.png)
 
 ![image](https://user-images.githubusercontent.com/63156822/137364363-13afff1b-5afd-41c2-abbf-94a6be71e135.png)
