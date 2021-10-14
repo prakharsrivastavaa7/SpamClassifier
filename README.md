@@ -36,6 +36,7 @@ The output results fior varous mail inputs
 
 ![image](https://user-images.githubusercontent.com/63156822/137364388-e6b48f43-22b6-449e-9568-e965fc606940.png)
 
+
   ### Flowchart
 There are two main components of the project - Machine Learning based Model Fitting and Web Deployment Using Streamlit.
 Initially data is preprocessed and unnecessary rows are removed and a new clean dataset is stored in anew csv file. 
@@ -44,8 +45,10 @@ Tfidf vectoriser and Count Vectoriser are used on the test data and then various
 
 ![Flowchart (1)](https://user-images.githubusercontent.com/63156822/137368106-5fc3c4b5-d22e-4fe9-a36e-00e6fe8e25a4.png)
 
+
 ## About
 The project has been designed as part of the evaluation scheme of my college course UCS757 - Building Innovative Systems. This project involves the use of Machine Learning to classify an input mail as spam or not.The data is preprocessed, visualised and then fitted on various models. LogisticRegression is one of the best performing models and therefore used in pickling. Voting classifier also gives high precision and therefore can be used as well.
+
 
 ## Deployment on Streamlit
 The webapp is deployed using streamlit share (https://share.streamlit.io/) which allows the user to deploy a webapp created using streamlit.
@@ -68,10 +71,12 @@ The webapp is deployed using streamlit share (https://share.streamlit.io/) which
 ├── setup.sh
 ├── email.csv
 ```
+
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+ 
  
  ## Future Scope
 
