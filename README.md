@@ -63,6 +63,7 @@ The webapp is deployed using streamlit share (https://share.streamlit.io/) which
 ├── vectorizer.pkl
 ├── spamdata.csv
 ├── nltk.txt
+├── Novelty.txt
 ├── Procfile
 ├── requirements.txt
 ├── data cleaning.ipynb
