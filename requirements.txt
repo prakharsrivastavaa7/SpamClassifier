@@ -1,0 +1,5 @@
+certifi==2021.5.30
+wincertstore==0.2
+streamlit
+nltk
+scikit-learn==0.24.2
