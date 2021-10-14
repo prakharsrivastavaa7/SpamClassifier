@@ -47,8 +47,8 @@ Tfidf vectoriser and Count Vectoriser are used on the test data and then various
 ## About
 The project has been designed as part of the evaluation scheme of my college course UCS757 - Building Innovative Systems. This project involves the use of Machine Learning to classify an input mail as spam or not.The data is preprocessed, visualised and then fitted on various models. LogisticRegression is one of the best performing models and therefore used in pickling. Voting classifier also gives high precision and therefore can be used as well.
 
-## Deployement on Streamlit
-The webapp is deployed using streamlit share which allows the user to deploy a webapp created using streamlit.
+## Deployment on Streamlit
+The webapp is deployed using streamlit share (https://share.streamlit.io/) which allows the user to deploy a webapp created using streamlit.
 
 ## Directory Tree 
 ```
