@@ -43,7 +43,7 @@ Initially data is preprocessed and unnecessary rows are removed and a new clean 
 The newly created dataset is opened in a new jupyter notebook where it is preprocessed and text cleaning is done using nltk components like stemming. 
 Tfidf vectoriser and Count Vectoriser are used on the test data and then various model training techniques are used to get the best precision. Naive Bayes is one of the most commonly used technique to train text data therefore I used it here. Apart form that DecisionTree is used along with hyperparameter tuning to see the effect on precision. In the end voting classifier is used in which a combination of different techniques are combined to make a new combined model. This way the precision and accuracy can be altered and improved.
 
-![Flowchart](https://user-images.githubusercontent.com/63156822/137370762-2b5a7a45-08f3-4011-b41b-9bb349613208.jpeg)
+![Flowchart (1)](https://user-images.githubusercontent.com/63156822/137371084-50b88c60-1250-4f78-bc93-79a66f1ea325.png)
 
 
 ## About
