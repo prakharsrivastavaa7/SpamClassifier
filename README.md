@@ -4,7 +4,7 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [About](#About)
-  * [Deployement on Streamlit](#deployement-on-streamlit)
+  * [Deployement on Streamlit](#deployment-on-streamlit)
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
   * [Future scope of project](#future-scope)
